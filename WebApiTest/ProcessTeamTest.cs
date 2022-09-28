@@ -1,9 +1,4 @@
-﻿// /////////////////////////////////////////////////////////////////////////////
-// TESTING AREA
-// THIS IS AN AREA WHERE YOU CAN TEST YOUR WORK AND WRITE YOUR TESTS
-// /////////////////////////////////////////////////////////////////////////////
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Net.Http.Json;
 using System.Threading.Tasks;
 using WebApiTest.Base;
